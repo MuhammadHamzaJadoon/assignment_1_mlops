@@ -1,2 +1,2 @@
 def insert_trueu():
-  assert True
+    assert True
